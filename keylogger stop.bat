@@ -1,0 +1,1 @@
+taskkill /F /IM keylogger2.exe
